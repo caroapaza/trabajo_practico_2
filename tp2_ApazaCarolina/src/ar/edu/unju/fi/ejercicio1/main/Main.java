@@ -1,7 +1,7 @@
-package ar.edu.unju.fi.main;
+package ar.edu.unju.fi.ejercicio1.main;
 
-import ar.edu.unju.fi.model.Semaforo;
-import ar.edu.unju.fi.model.Semaforo.ColorSemaforo;
+import ar.edu.unju.fi.ejercicio1.model.Semaforo;
+import ar.edu.unju.fi.ejercicio1.model.Semaforo.ColorSemaforo;
 
 public class Main {
 

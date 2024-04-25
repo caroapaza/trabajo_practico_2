@@ -49,7 +49,7 @@ public class Main {
 			default: System.out.println("No existe opción seleccionada!");
 		}
 		System.out.println(producto);
-		
+		sc.close();
 	}
 
 }
